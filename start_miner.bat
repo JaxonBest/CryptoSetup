@@ -4,5 +4,5 @@ setx GPU_USE_SYNC_OBJECTS 1
 setx GPU_MAX_ALLOC_PERCENT 100
 setx GPU_SINGLE_ALLOC_PERCENT 100
 
-PhoenixMiner.exe -config config.txt
+miner\PhoenixMiner.exe -config miner\config.txt
 pause
