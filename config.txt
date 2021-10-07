@@ -4,3 +4,5 @@
 
 :0: disabled - :1: log but no output in console - :2: log and output (default)
 -log 0
+
+
